@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Two waves of same frequency and amplitude meet at a point where they are 180<sup>0</sup> out of phase. Which of the following is correct?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "They superimpose, resulting in zero intensity",
+        "b": "Their amplitudes subtract, resulting in zero amplitude",
+        "c": "Destructive interference occurs",
+        "d": "Their energy at that point disappear and thus the energy of the waves after interference is half that of the original waves"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What causes the bright colored patterns sometimes seen on wet streets covered with a layer of oil?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Diffraction and polarisation",
+        "b": "Interference and deflection",
+        "c": "Refraction and diffraction",
+        "d": "Reflection and interference"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "What does a point source produce?",
+      "answers": {
+        "a": "Spherical wave front",
+        "b": "Plane wave front",
+        "c": "Cylindrical wave front",
+        "d": "None of these"
       },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
