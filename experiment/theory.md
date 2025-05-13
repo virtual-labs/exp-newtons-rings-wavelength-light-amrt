@@ -63,6 +63,6 @@ $$2t=m\lambda$$
 7. Rings get closer as the order increases (m increases) since the diameter does not increase in the same proportion.
 8. In transmitted light the ring system is exactly complementary to the reflected ring system so that the centre spot is bright.
 9. Under white light we get coloured fringes.
-10. The wavelength of monochromatic light can be determined as, $ \lambda=\frac{D^{2}_{m+p}-D^{2}_{m}}{4pR}$
+10. The wavelength of monochromatic light can be determined as, $\lambda=\frac{D^{2}_{m+p}-D^{2}_{m}}{4pR}$
 Where, $D_{m+p}$ is the diameter of the (m+p)<sup>th</sup> dark ring and $D_{m}$ is the diameter of the m<sup>th</sup> dark ring.
  
