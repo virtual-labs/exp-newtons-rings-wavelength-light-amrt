@@ -8,7 +8,7 @@
 A film is said to be thin when its thickness is about the order of one wavelength of visible light which is taken to be 550 nm.  When light is incident on such a film, a small portion gets reflected from the upper surface and a major portion is transmitted into the film. Again a small part of the transmitted component is reflected back into the film by the lower surface and the rest of it emerges out of the film. These reflected beams reunite to produce interference.  Also the transmitted beams too interfere.  This type of interference that takes place in thin films is called interference by division of amplitude.
 
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;">Figure 1: schematic representation of reflected and transmitted rays from a thin film</p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure1.jpg" alt="Figure 1" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic; width: 300px;">Figure 1: schematic representation of reflected and transmitted rays from a thin film</p> </div>
 
 
 $\theta_{1}$   angle of incidence at medium 1 to medium 2 boundary.<br>
@@ -38,7 +38,7 @@ The transmitted light from $t_{23}$ can also interfere and result in constructiv
 
 ### Thin film interference with films of varying thickness (Newton's rings):
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;">Figure 2: arrangement of plano-convex lens and plane glass for the thin film formation.</p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic; width: 300px;">Figure 2: arrangement of plano-convex lens and plane glass for the thin film formation.</p> </div>
 
 Rings are fringes of equal thickness.  They are observed when light is reflected from a plano-convex lens of a long focal length placed in contact with a plane glass plate.  A thin air film is formed between the plate and the lens.  The thickness of the air film varies from zero at the point of contact to some value t.  If the lens plate system is illuminated with monochromatic light falling on it normally, concentric bright and dark interference rings are observed in reflected light. These circular fringes were discovered by Newton and are called Newton's rings.
 
