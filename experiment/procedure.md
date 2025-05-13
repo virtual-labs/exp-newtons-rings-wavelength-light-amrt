@@ -22,6 +22,7 @@ Start button, Light source, Filter, Microscope, Lens, Medium and Glass plate.
 1. The start button will help to play the simulation.
 2. The variation in the rings can be seen when the medium,wavelength of light or the radius of the lens changes.
 
+### Procedure
 
 <ol>
     <li>Click on the "light on" button.</li>
@@ -34,3 +35,25 @@ Start button, Light source, Filter, Microscope, Lens, Medium and Glass plate.
     <li>Enter the readings in the tabular column.</li>
     <li>Calculate the&nbsp;wavelength of the source  by using the  given formula.</li>
 </ol>
+
+### Observations
+
+**To find Least Count**
+
+One main scale division                     = ............... cm
+
+Number of divisions on Vernier          = ...............
+
+L.C.  = One main scale division/ Number of division on vernier=.................................
+
+<img src="./images/figure3.jpg" width=400px>
+
+## Calculation
+
+Mean value of $D^{2}_{m+p}-D^{2}_{m}$ = ......... cm<sup>2</sup>
+
+Wavelength of light $ \lambda=\frac{D^{2}_{m+p}-D^{2}_{m}}{4pR}$ = .................... nm
+
+## Result:
+
+Wavelength of light from the given source is found to be  = ..........nm
