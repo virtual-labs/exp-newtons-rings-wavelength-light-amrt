@@ -38,7 +38,7 @@ The transmitted light from $t_{23}$ can also interfere and result in constructiv
 
 ### Thin film interference with films of varying thickness (Newton's rings):
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic; width: 300px;">Figure 2: arrangement of plano-convex lens and plane glass for the thin film formation.</p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 400px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic; width: 300px;">Figure 2: arrangement of plano-convex lens and plane glass for the thin film formation.</p> </div>
 
 Rings are fringes of equal thickness.  They are observed when light is reflected from a plano-convex lens of a long focal length placed in contact with a plane glass plate.  A thin air film is formed between the plate and the lens.  The thickness of the air film varies from zero at the point of contact to some value t.  If the lens plate system is illuminated with monochromatic light falling on it normally, concentric bright and dark interference rings are observed in reflected light. These circular fringes were discovered by Newton and are called Newton's rings.
 
