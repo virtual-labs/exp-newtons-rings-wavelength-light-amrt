@@ -1,10 +1,10 @@
-### Procedure
+# Procedure
 
-### Performing Real Lab
+## Performing Real Lab
 
 <p>After experimental arrangement, the glass plate is inclined at an angle $45^{0}$ to the horizontal.This glass plate reflects light from the source vertically downwards and falls normally on the convex lens. Newton's rings are seen using a long focus microscope, focussed on the air film. The cross-wire of the microscope is made tangential to the 20<sup>th </sup>ring on the left side of the centre. The readings of the main scale and vernier scale of the microscope are noted. The cross wire is adjusted to be tangential to the 18<sup>th</sup>, 16<sup>th</sup>, 14<sup>th</sup>,&nbsp; etc on the left and 2nd, 4th, 6th, etc on the right and readings are taken each time. From this the diameter of the ring is found out which is the difference between the readings on the left and right sides. The square of the diameter and hence Dn<sup>2</sup> and D<sup>2</sup>n+m are found out. Then wavelength is calulated using equation.</p>
 
-### Performing the simulation
+## Performing the simulation
 
 The simulation virtualizes the Newton's rings experiment. The user can view the effect of Newton's rings formed when the medium changes. Select any one type of medium. Different ring pattern can be seen by changing the radius of curvature of the lens and wavelength of light source.
 ### Components:
@@ -12,6 +12,16 @@ The simulation virtualizes the Newton's rings experiment. The user can view the 
 Start button, Light source, Filter, Microscope, Lens, Medium and Glass plate.
 
 #### Help:
+> **Note for Mobile Users:** 
+> To access the control section, tap the **hamburger menu icon** (≡) at the top-left corner of the screen.
+
+![Mobile View](image/mobile_view.png)
+
+![Mobile View](image/mobile_view.png=300x200)
+
+
+<!-- Percentage width (useful for responsive design) -->
+<img src="image/mobile_view.png" alt="Mobile View" width="50%">
  
 **Variable region:**
 1. Choose Medium Combo box helps you to choose the type of medium that the simulation have to perform.
