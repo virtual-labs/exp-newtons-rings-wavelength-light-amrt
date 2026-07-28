@@ -13,15 +13,11 @@ Start button, Light source, Filter, Microscope, Lens, Medium and Glass plate.
 
 #### Help:
 > **Note for Mobile Users:** 
-> To access the control section, tap the **hamburger menu icon** (≡) at the top-left corner of the screen.
-
-![Mobile View](image/mobile_view.png)
-
-![Mobile View](image/mobile_view.png=300x200)
+> To access the control section, tap the **menu icon** (≡) at the top-left corner of the screen.
 
 
 <!-- Percentage width (useful for responsive design) -->
-<img src="image/mobile_view.png" alt="Mobile View" width="50%">
+<img src="images/mobile_view.png" alt="Mobile View" width="50%">
  
 **Variable region:**
 1. Choose Medium Combo box helps you to choose the type of medium that the simulation have to perform.
