@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In interference",
+      "answers": {
+        "a": "There is loss of energy in greater amount",
+        "b": "There is no loss of energy",
+        "c": "There is loss of energy in lesser amount",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following lights will produce an interference pattern with the largest separation between the bright fringes?",
+      "answers": {
+        "a": "Red",
+        "b": "Orange",
+        "c": "Green",
+        "d": "Blue"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Two waves of same frequency and amplitude meet at a point where they are 180<sup>0</sup> out of phase. Which of the following is correct?",
+      "answers": {
+        "a": "They superimpose, resulting in zero intensity",
+        "b": "Their amplitudes subtract, resulting in zero amplitude",
+        "c": "Destructive interference occurs",
+        "d": "Their energy at that point disappear and thus the energy of the waves after interference is half that of the original waves"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What causes the bright colored patterns sometimes seen on wet streets covered with a layer of oil?",
+      "answers": {
+        "a": "Diffraction and polarisation",
+        "b": "Interference and deflection",
+        "c": "Refraction and diffraction",
+        "d": "Reflection and interference"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "What does a point source produce?",
+      "answers": {
+        "a": "Spherical wave front",
+        "b": "Plane wave front",
+        "c": "Cylindrical wave front",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
